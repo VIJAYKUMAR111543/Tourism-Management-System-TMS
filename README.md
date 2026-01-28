@@ -5,12 +5,12 @@ This project helps users explore tour packages, manage bookings, and allows admi
 
 Features
 
-->User registration and login
-->Tour package browsing and booking
-->Admin dashboard for managing tours, users, and bookings
-->Secure authentication system
-->Responsive user interface
-->Database-driven dynamic content
+User registration and login
+Tour package browsing and booking
+Admin dashboard for managing tours, users, and bookings
+Secure authentication system
+Responsive user interface
+Database-driven dynamic content
 
 Technologies Used
 
@@ -30,7 +30,7 @@ Database Configuration
 
 Open PHPMyAdmin
 Create Database tms
-Import database tms.sql (available inside the zip package)
+Import database tms.sql 
 Open Your browser put inside browser “http://localhost/tms”
 
 Login Details for admin : 
