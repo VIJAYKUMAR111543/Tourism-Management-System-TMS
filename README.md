@@ -36,8 +36,8 @@ This project helps users explore tour packages, manage bookings, and allows admi
 
 - Open PHPMyAdmin
 - Create Database tms
-- Import database tms.sql (available inside the zip package)
-- Open Your browser put inside browser “http://localhost/tms”
+- Import database tms.sql 
+- Open Your browser put inside browser as localhost/tms
 
 ---
 
