@@ -1,40 +1,46 @@
-Tourism Management System (PHP)
+# Tourism Management System (PHP)
 
-A web-based Tourism Management System developed using PHP, MySQL, HTML, CSS, and JavaScript.
+A web-based **Tourism Management System** developed using **PHP, MySQL, HTML, CSS, and JavaScript**.  
 This project helps users explore tour packages, manage bookings, and allows administrators to manage tourism services efficiently.
 
-Features
+---
 
-User registration and login
-Tour package browsing and booking
-Admin dashboard for managing tours, users, and bookings
-Secure authentication system
-Responsive user interface
-Database-driven dynamic content
+## Features
 
-Technologies Used
+- User registration and login  
+- Tour package browsing and booking  
+- Admin dashboard for managing tours, users, and bookings  
+- Secure authentication system  
+- Responsive user interface  
+- Database-driven dynamic content  
 
-Frontend
-HTML
-CSS
-JavaScript
+---
 
-Backend
-PHP
-MySQL
+## Technologies Used
 
-Server
-XAMPP 
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
 
-Database Configuration
+### Backend
+- PHP  
+- MySQL  
 
-Open PHPMyAdmin
-Create Database tms
-Import database tms.sql 
-Open Your browser put inside browser “http://localhost/tms”
+### Server
+- XAMPP  
 
-Login Details for admin : 
-Open Your browser put inside browser “http://localhost/tms/admin”
+---
 
-Author
+## Database Configuration
+
+- Open PHPMyAdmin
+- Create Database tms
+- Import database tms.sql (available inside the zip package)
+- Open Your browser put inside browser “http://localhost/tms”
+
+---
+
+## Author
+
 Vijay Kumar
