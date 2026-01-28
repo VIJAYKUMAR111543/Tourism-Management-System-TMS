@@ -1,0 +1,24 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Cache files
+*.cache
+
+# Environment files
+.env
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# XAMPP / local server files (just in case)
+xampp/
+htdocs/
+
+# Backup files
+*.bak
+*.tmp
